@@ -1,6 +1,6 @@
 # TicketRequest Web App
 The TicketRequest web app is a React Native application designed for a coding challenge for the Cleveland Guardians. The app allows employees to view their own ticket requests and see the status of their request, the number of tickets requested, the date of the game, the time they entered the ballpark, and whether or not they attended the game.
-# Screenshots
+# UI
 <img src="https://i.imgur.com/bxOSx9j.jpg" alt="Alt Text" width="700" height="500">
 <img src="https://i.imgur.com/yFNRdZq.jpg" alt="Alt Text" width="700" height="500">
 <img src="https://i.imgur.com/3tHhFVI.png" alt="Alt Text" width="620" height="250">
