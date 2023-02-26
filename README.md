@@ -1,31 +1,25 @@
-This webapp was made for 2023 Coding Challenge: Software Developer, Business Systems - Guardians
-To run this app, please either clone this repo or download its contents and run.                                                                                          
-Thank you!
-In the project directory, you can run:                                                                                                                                    
+# TicketRequest Web App
+The TicketRequest web app is a React Native application designed for a coding challenge for the Cleveland Guardians. The app allows employees to view their own ticket requests and see the status of their request, the number of tickets requested, the date of the game, the time they entered the ballpark, and whether or not they attended the game.
 
-### `npm start`
+## Features
+View ticket requests: Employees can view their own ticket requests and see the status, number of tickets requested, date of the game, and time they entered the ballpark.
+Attendance tracking: The app allows employees to indicate whether or not they attended the game for each ticket request.
+Easy to use UI: The app features an intuitive and user-friendly interface, making it easy for employees to view their ticket requests and track attendance.
+## Installation
+Clone the repository: git clone https://github.com/your-username/TicketRequest.git
+Navigate to the project directory: cd TicketRequest
+Install dependencies: npm install
+## Usage
+To start the app, run npm start. This will start the Metro bundler and launch the app in your default web browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Background
+The background of the TicketRequest web UI is the official Cleveland Guardians wallpaper, providing a visually appealing and cohesive user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## License
+The TicketRequest web app is released under the MIT License. See LICENSE for more information.
 
-### `npm test`
+## Contributors
+Shakeeb Rahman
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
 
 
