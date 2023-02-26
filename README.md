@@ -6,9 +6,9 @@ The TicketRequest web app is a React Native application designed for a coding ch
 <img src="https://i.imgur.com/3tHhFVI.png" alt="Alt Text" width="620" height="250">
 
 ## Installation
-Clone the repository: git clone https://github.com/your-username/TicketRequest.git
-Navigate to the project directory: cd TicketRequest
-Install dependencies: npm install
+- Clone the repository: git clone https://github.com/your-username/TicketRequest.git
+- Navigate to the project directory: cd TicketRequest
+- Install dependencies: npm install
 ## Usage
 To start the app, run npm start. This will start the Metro bundler and launch the app in your default web browser.
 
@@ -22,4 +22,7 @@ The TicketRequest web app is released under the MIT License. See LICENSE for mor
 Shakeeb Rahman
 
 
-
+## Features
+- View ticket requests: Employees can view their own ticket requests and see the status, number of tickets requested, date of the game, and time they entered the ballpark.
+- Attendance tracking: The app allows employees to indicate whether or not they attended the game for each ticket request.
+- Easy to use UI: The app features an intuitive and user-friendly interface, making it easy for employees to view their ticket requests and track attendance.
