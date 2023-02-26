@@ -3,7 +3,7 @@ The TicketRequest web app is a React Native application designed for a coding ch
 # Screenshots
 <img src="https://i.imgur.com/bxOSx9j.jpg" alt="Alt Text" width="700" height="500">
 <img src="https://i.imgur.com/yFNRdZq.jpg" alt="Alt Text" width="700" height="500">
-<img src="https://i.imgur.com/3tHhFVI.png" alt="Alt Text" width="400" height="100">
+<img src="https://i.imgur.com/3tHhFVI.png" alt="Alt Text" width="500" height="200">
 ## Features
 View ticket requests: Employees can view their own ticket requests and see the status, number of tickets requested, date of the game, and time they entered the ballpark.
 Attendance tracking: The app allows employees to indicate whether or not they attended the game for each ticket request.
