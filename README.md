@@ -13,8 +13,8 @@ The TicketRequest web app is a React Native application designed for a coding ch
 To start the app, run npm start. This will start the Metro bundler and launch the app in your default web browser.
 
 ## Background
-The background of the TicketRequest web UI is the official Cleveland Guardians wallpaper, providing a visually appealing and cohesive user experience.
-
+The background of the TicketRequest web UI is inspired by the official Cleveland Guardians wallpaper, providing a visually appealing and cohesive user experience.
+![Alt Text](https://i.imgur.com/pUQdqin.jpg)
 ## Features
 - View ticket requests: Employees can view their own ticket requests and see the status, number of tickets requested, date of the game, and time they entered the ballpark.
 - Attendance tracking: The app allows employees to indicate whether or not they attended the game for each ticket request.
