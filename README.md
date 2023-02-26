@@ -10,7 +10,7 @@ The TicketRequest web app is a React Native application designed for a coding ch
 - Navigate to the project directory: cd TicketRequest
 - Install dependencies: npm install
 ## Usage
-To start the app, run npm start. This will start the Metro bundler and launch the app in your default web browser.
+To start the app, run ``npm start``. This will start the Metro bundler and launch the app in your default web browser.
 
 ## Background
 The background of the TicketRequest web UI is inspired by the official Cleveland Guardians wallpaper, providing a visually appealing and cohesive user experience.
