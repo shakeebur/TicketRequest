@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+body{
+  background-image: url("https://i.postimg.cc/zDPxBHw5/cle.jpg");
+  color: white;
+}
 
 .App-logo {
   height: 40vmin;

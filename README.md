@@ -6,8 +6,8 @@ The TicketRequest web app is a React Native application designed for a coding ch
 <img src="https://i.imgur.com/3tHhFVI.png" alt="Alt Text" width="620" height="250">
 
 ## Installation
-- Clone the repository: git clone `https://github.com/your-username/TicketRequest.git`
-- Navigate to the project directory: cd TicketRequest
+- Clone the repository: git clone `https://github.com/shakeebur/TicketRequest.git`
+- Navigate to the project directory: cd Ticket-Request
 - Install dependencies: npm install
 ## Usage
 To start the app, run ``npm start``. This will start the Metro bundler and launch the app in your default web browser.

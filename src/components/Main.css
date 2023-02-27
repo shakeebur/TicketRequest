@@ -1,0 +1,64 @@
+.requestsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2%;
+    /* margin-left: 50%;
+    margin-right: 50%; */
+
+    animation-name: rightToLeft;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+}
+@keyframes rightToLeft {
+    0% {
+      transform: translateX(200px);
+    }
+    100% {
+      transform: translateX(-1px);
+    }
+  }
+
+.requestHeaderContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.requestHeaderContainer>div{
+    border: 1px solid black;
+    padding: 1%;
+}
+
+.requestContentContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.requestContentContainer>div{
+    border: 1px solid black;
+    padding: 2%;
+}
+li{
+    margin-top: 1%;
+}
+span{
+    margin-left: 1%;
+}
+input{
+    height: 5vh;
+    text-align: center;
+}
+button{
+    margin-left: 2%;
+    border: none;
+    height: 5vh;
+    width: 15vh;
+    color: blue;
+}
+
+button:hover{
+    color:red;
+    cursor: pointer;
+}
